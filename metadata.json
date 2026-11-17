@@ -1,0 +1,6 @@
+{
+  "name": "Abillet",
+  "description": "Plateforme de réservation de billets de bus interurbains et d'hôtels au Tchad",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
